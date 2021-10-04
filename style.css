@@ -5,3 +5,6 @@
     title{
         color: red;
     }
+    .display{
+        flex: content;
+    }
